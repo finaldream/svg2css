@@ -2,7 +2,7 @@
 
 'use strict';
 
-var Svg2CssApp = require('./svg2css.js');
+var Svg2CssApp = require('./lib/svg2css.js');
 
 process.title = 'svg2css';
 
