@@ -22,7 +22,7 @@
   ],
   "author": "Oliver Erdmann, <o.erdmann@finaldream.de>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "commander": "^2.8.1"
   }
 }
