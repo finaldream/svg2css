@@ -1,7 +1,7 @@
 {
-  "name": "svc",
-  "version": "0.2.1",
-  "description": "Scalable Vector Converter - A small and simple SVG to inline CSS converter for node.js.",
+  "name": "svg2css",
+  "version": "0.1.1",
+  "description": "A small and simple SVG to inline CSS converter for node.js.",
   "main": "index.js",
   "bin": {
     "svg2css": "index.js"
@@ -23,7 +23,6 @@
   "author": "Oliver Erdmann, <o.erdmann@finaldream.de>",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.8.1",
-    "libxmljs": "^0.14.3"
+    "commander": "^2.8.1"
   }
 }
